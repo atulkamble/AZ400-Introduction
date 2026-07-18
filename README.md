@@ -1,7 +1,5 @@
-# AZ400-Introduction
-```
 ### Introduction to AZ-400
-
+```
 1. Azure DevOps Overview
 2. Benefits of Using Azure DevOps
 3. How to Create a Free Azure DevOps Account
@@ -18,5 +16,4 @@
 14. Managing Azure DevOps Access Using Microsoft Entra ID
 15. Scenario: Azure DevOps Account and Azure Portal Account Are Different
 16. Best Practices for Azure DevOps Organization and User Management
-
 ```
